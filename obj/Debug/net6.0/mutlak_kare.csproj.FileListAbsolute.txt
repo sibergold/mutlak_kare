@@ -1,0 +1,15 @@
+C:\Users\OSMAN\mutlak_kare\bin\Debug\net6.0\mutlak_kare.exe
+C:\Users\OSMAN\mutlak_kare\bin\Debug\net6.0\mutlak_kare.deps.json
+C:\Users\OSMAN\mutlak_kare\bin\Debug\net6.0\mutlak_kare.runtimeconfig.json
+C:\Users\OSMAN\mutlak_kare\bin\Debug\net6.0\mutlak_kare.dll
+C:\Users\OSMAN\mutlak_kare\bin\Debug\net6.0\mutlak_kare.pdb
+C:\Users\OSMAN\mutlak_kare\obj\Debug\net6.0\mutlak_kare.csproj.AssemblyReference.cache
+C:\Users\OSMAN\mutlak_kare\obj\Debug\net6.0\mutlak_kare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OSMAN\mutlak_kare\obj\Debug\net6.0\mutlak_kare.AssemblyInfoInputs.cache
+C:\Users\OSMAN\mutlak_kare\obj\Debug\net6.0\mutlak_kare.AssemblyInfo.cs
+C:\Users\OSMAN\mutlak_kare\obj\Debug\net6.0\mutlak_kare.csproj.CoreCompileInputs.cache
+C:\Users\OSMAN\mutlak_kare\obj\Debug\net6.0\mutlak_kare.dll
+C:\Users\OSMAN\mutlak_kare\obj\Debug\net6.0\refint\mutlak_kare.dll
+C:\Users\OSMAN\mutlak_kare\obj\Debug\net6.0\mutlak_kare.pdb
+C:\Users\OSMAN\mutlak_kare\obj\Debug\net6.0\mutlak_kare.genruntimeconfig.cache
+C:\Users\OSMAN\mutlak_kare\obj\Debug\net6.0\ref\mutlak_kare.dll
